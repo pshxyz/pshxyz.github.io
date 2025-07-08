@@ -32,28 +32,21 @@ hide{
 }
 </style>
 
-- Editorial Board Member, *Journal of Economic Science Research*
-
 - Editorial Board Member, *Humanities and Social Sciences Communications*
 
-- Associate Professor, School of Public Finance and Public Administration, Jiangxi University of Finance and Economics
+- Associate Professor, School of Public Administration, Jiangxi University of Finance and Economics
+  
+- Council Member, The Chinese Society of Labor Economics
 
-- Executive Director, Jiangxi Provincial Society of Human Resources and Social Security
+- Executive Council Member, Jiangxi Provincial Society of Human Resources and Social Security
 
 - Research Fellow, Global Labor Organization (GLO)
-
 
 # PROFESSIONAL EXPERIENCE
 
 - 12/2019 - 11/2020: Visiting Scholar, University of Oklahoma
 
-- 01/2018 - 12/2019: Research Fellow, Jiangxi Provincial Association of Social Sciences
-
-- 12/2017 - 08/2018: Associate Professor, School of Statistics / Collaborative Innovation Center, Jiangxi University of Finance and Economics
-
 - 10/2013 - 10/2016: Postdoctor, Institute of Population and Labor Economics, Chinese Academy of Social Sciences
-
-- 09/2012 - 11/2017: Lecturer, School of Statistics / Collaborative Innovation Center, Jiangxi University of Finance and Economics
 
 # EDUCATION
 
