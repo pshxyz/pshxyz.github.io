@@ -37,5 +37,7 @@ redirect_from:
 
 # In Charge of the Ongoing Projects
 
+- School-to-Work Transition of University Graduates: Empirical Facts, Explanatory Factors, and Impact Effects
+
 - The Impact of Artificial Intelligence Applications on China's Labor Market
 
