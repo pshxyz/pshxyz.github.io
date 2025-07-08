@@ -117,7 +117,7 @@ hide{
 
 - Research on Fair Regulation of Monopoly Industry in China, Economic Science Press, December 2013. (In Chinese)
 
-** CHAPTERS IN BOOKS AND CONFERENCE VOLUMES**
+**CHAPTERS IN BOOKS AND CONFERENCE VOLUMES**
 
 - "Talent Support Policy for the Development of Strategic Emerging Industries in Jiangxi Province", Jiangxi Strategic Emerging Industries Development Report (2014-2015), Edited by Jiangxi Provincial Strategic Emerging Industries Development Report Group, Economic Science Press, July 2016. (In Chinese)
 
