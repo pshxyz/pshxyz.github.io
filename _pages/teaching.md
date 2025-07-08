@@ -9,21 +9,23 @@ redirect_from:
 
 # Undergraduate Courses
 
-- *Labor Economics*
+- Labor Economics
 
-- *Analysis of China's Labor Market*
+- Analysis of China's Labor Market
 
-- *Probability and Statistics*
+- Probability and Statistics
 
-# Graduate Courses
+# Master’s Courses
 
-- *Quantitative Methods for Public Administration*
+- Quantitative Methods for Public Administration
 
-- *Labor Economics*
+- Labor Economics
 
-- *Frontier Topics in Human Capital and Income Distribution*
+- Frontier Topics in Human Capital and Income Distribution
+  
+- Special Topic on the Digital Economy and Employment
 
 # Doctoral Courses
 
-- *Machine Learning and Applications of R Language*
+- Machine Learning and Applications of R Language
 
