@@ -18,7 +18,7 @@ Shuhong Peng is an Associate Professor of economics at School of Public Finance 
 
 - Postal Address: No.169, East Shuanggang Road, Nanchang, Jiangxi, 330013, P.R. China
 
-- Office: Room 122, Caishui Building, Jiangxi University of Finance and Economics
+- Office: Room 327, Caishui Building, Jiangxi University of Finance and Economics
 
 
 
