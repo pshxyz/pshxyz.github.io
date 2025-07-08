@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Affiliation: School of Public Finance and Public Administration, Jiangxi University of Finance and Economics 
-
-Address: Nanchang, Jiangxi Province, China
-
-Website: https://pshxyz.github.io 
-
-E-mail: ![](images/email.bmp)
-
 # RESEARCH FIELDS
 
 - Labor Economics
