@@ -11,7 +11,7 @@ Affiliation: School of Public Finance and Public Administration, Jiangxi Univers
 
 Address: Nanchang, Jiangxi Province, China
 
-E-mail: ![](images/email.png)
+E-mail: ![](images/email.bmp)
 
 Website: https://pshxyz.github.io
 
