@@ -45,3 +45,12 @@
 .page__footer p:last-child {
   display: none !important;
 }
+
+/* 隐藏右上角的 Toggle theme 按钮 */
+.js-toggle-theme,
+.toggle-theme,
+[title="Toggle theme"]
+{
+    display: none !important;
+}
+
