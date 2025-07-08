@@ -9,7 +9,7 @@ redirect_from:
 
 # Selected Published Papers
 
-- The Health Effects of Education in China: A Meta-Regression Analysis
+- Artificial Intelligence Application and Enterprise Employment: Evidence from Textual Analysis of Chinese Listed Companies’ Annual Reports
 
 - Unemployment Insurance, Background Risk and Household Stock Market Participation
 
