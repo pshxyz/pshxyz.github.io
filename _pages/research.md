@@ -35,7 +35,7 @@ redirect_from:
 
 - The Evolution and Characteristics of the Wage Gap among China’s Sectors
 
-# In Charge of the Ongoing Projects
+# Ongoing Research Projects
 
 - School-to-Work Transition of University Graduates: Empirical Facts, Explanatory Factors, and Impact Effects
 
