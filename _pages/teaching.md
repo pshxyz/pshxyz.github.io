@@ -25,7 +25,9 @@ redirect_from:
   
 - Special Topic on the Digital Economy and Employment
 
+- Academic Writing: Methods and Standards
+
 # Doctoral Courses
 
-- Machine Learning and Applications of R Language
+- Advanced Research Methods in Public Administration (Machine Learning and Applications of R Language)
 
