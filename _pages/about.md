@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Shuhong Peng is an Associate Professor of economics at School of Public Finance & Public Administration, Jiangxi University of Finance and Economics in China. He is a Research Fellow of Global Labor Organization and an associate editor of *Humanities and Social Sciences Communications*. Shuhong Peng's main research fields are labor economics and applied microeconometrics, with particular focus on human capital and labor market policies.
+Shuhong Peng is an Associate Professor of economics at School of Public Finance & Public Administration, Jiangxi University of Finance and Economics in China. He is a Research Fellow of Global Labor Organization and an editor member of *Humanities and Social Sciences Communications*. Shuhong Peng's main research fields are labor economics and applied microeconometrics, with particular focus on human capital and labor market policies.
 
 
 # Contact
