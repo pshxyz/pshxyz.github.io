@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-# RESEARCH FIELDS
+# Research Fields
 
 - Labor Economics
 
 - Applied Microeconometrics
 
 
-# CURRENT POSITIONS AND AFFILIATIONS
+# Current Position and Affiliations
 
 <style>
 hide{
@@ -42,13 +42,13 @@ hide{
 
 - Research Fellow, Global Labor Organization (GLO)
 
-# PROFESSIONAL EXPERIENCE
+# Professional Experience
 
 - 12/2019 - 11/2020: Visiting Scholar, University of Oklahoma
 
 - 10/2013 - 10/2016: Postdoctor, Institute of Population and Labor Economics, Chinese Academy of Social Sciences
 
-# EDUCATION
+# Education
 
 - 09/2009 - 06/2012: PhD in Economics, Dongbei University of Finance and Economics
 
@@ -59,7 +59,7 @@ hide{
 - 09/1996 - 06/1999: Senior High School Student, Huanggang High School of Hubei Province
 
 
-# PUBLICATIONS IN REFEREED JOURNALS (Partial List)
+# Publications in Refereed Journals (Partial List)
 
 - Shuhong Peng. 2024. "Artificial Intelligence Application and Enterprise Employment: Evidence from Textual Analysis of Chinese Listed Companies’ Annual Reports", Business and Management Journal, 46(8): 42-64. (CSSCI, In Chinese)
 
@@ -111,13 +111,13 @@ hide{
 
 - Shuhong, Peng. 2005. "Research on Monopoly Pricing Strategy for the Supported Product", Journal of Quantitative Economics, 3: 291-295. (In Chinese)
 
-# BOOKS (Partial List)
+# Books (Partial List)
 
 - Research on the Development of Strategic Emerging Industries and Talent Policy in Jiangxi Province, Economic Science Press, April 2021. (In Chinese)
 
 - Research on Fair Regulation of Monopoly Industry in China, Economic Science Press, December 2013. (In Chinese)
 
-**CHAPTERS IN BOOKS AND CONFERENCE VOLUMES**
+**Chapters in Books and Conference Volumes**
 
 - "Talent Support Policy for the Development of Strategic Emerging Industries in Jiangxi Province", Jiangxi Strategic Emerging Industries Development Report (2014-2015), Edited by Jiangxi Provincial Strategic Emerging Industries Development Report Group, Economic Science Press, July 2016. (In Chinese)
 
@@ -132,7 +132,7 @@ hide{
 - "An Experimental Study on Seller's Income and Bidder's Behavior under Independent Private Value and Common Value Auction" (with X. Y. Wang), Quantitative Economics in the 21st Century (Fifth Volume), Edited by T. S. Wang, Southwest Jiaotong University Press, April 2005. (In Chinese)
 
 
-# CONFERENCES ATTENDED AND INVITED PRESENTATIONS (Partial List)
+# Conferences Attended and Invited Presentations (Partial List)
 
 - The Asian & Australian Society of Labour Economics 2021 Conference, Peking University (Online), 2021-12-9 to 2021-12-11. Speech title: “The Rise of Robots in China and the Attitudes of the Chinese People Towards It”. (Networking Session: Technological Change and the Labour Market)
 
@@ -156,7 +156,7 @@ hide{
 
 - The 6th China Statistics Annual Meeting, 2016, Beijing Normal University, Presentation Paper "The Explanation of Chinese College Wage Premium’s Evolution"
 
-# AWARDS (Partial List)
+# Awards (Partial List)
 
 - The First Prize for Outstanding Papers on Human Resources and Social Security in Jiangxi Province, 2020
 
@@ -189,7 +189,7 @@ RESEARCH PROJECTS AND GRANTS
 
 - 2012-2014   "Undergraduates’ Employment Ability: Model Construction, Empirical Analysis and Improvement Countermeasures." Funded by Jiangxi Provincial Education Science Planning Office. (Project Leader)
 
-# TEACHING (Current)
+# Teaching (Current)
 
 - Undergraduate Courses
 
