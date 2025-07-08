@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Labor Economics at Jiangxi University of Finance and Economics"
   location         : "Nanchang, China"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "shuhong.peng@gmail.com" 
 
@@ -304,13 +304,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+
 
 
 # Archives
