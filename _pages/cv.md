@@ -193,25 +193,25 @@ RESEARCH PROJECTS AND GRANTS
 
 - Undergraduate Courses
 
- * Labor Economics
+  * Labor Economics
 
- * Analysis of China's Labor Market
+  * Analysis of China's Labor Market
 
- * Probability and Statistics
+  * Probability and Statistics
 
 - Master’s Courses
 
- * Quantitative Methods for Public Administration
+  * Quantitative Methods for Public Administration
 
- * Labor Economics
+  * Labor Economics
 
- * Frontier Topics in Human Capital and Income Distribution
+  * Frontier Topics in Human Capital and Income Distribution
   
- * Special Topic on the Digital Economy and Employment
+  * Special Topic on the Digital Economy and Employment
 
- * Academic Writing: Methods and Standards
+  * Academic Writing: Methods and Standards
 
 - Doctoral Courses
 
- * Advanced Research Methods in Public Administration (Machine Learning and Applications of R Language)
+  * Advanced Research Methods in Public Administration (Machine Learning and Applications of R Language)
 
