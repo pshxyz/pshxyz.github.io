@@ -61,7 +61,7 @@ hide{
 
 # PUBLICATIONS IN REFEREED JOURNALS (Partial List)
 
-- Shuhong Peng. 2024. "Artificial Intelligence Application and Enterprise Employment: Evidence from Textual Analysis of Chinese Listed Companies’ Annual Reports", 
+- Shuhong Peng. 2024. "Artificial Intelligence Application and Enterprise Employment: Evidence from Textual Analysis of Chinese Listed Companies’ Annual Reports", Business and Management Journal, 46(8): 42-64. (CSSCI, In Chinese)
 
 - Shuhong, Peng. 2022. "The Health Effects of Education in China: A Meta-Regression Analysis", China Economics of Education Review, 7(1): 99-120. (CSSCI, In Chinese)
 
